@@ -1,4 +1,4 @@
 # Melhores atletas
-Ronaldo
-Cristiano
-Neymar
+1. Ronaldo
+2. Cristiano
+3. Gabriel
